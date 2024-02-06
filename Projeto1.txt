@@ -1,0 +1,4 @@
+
+Para calcular a complexidade de tempo no pior caso para a busca de um produto no estoque utilizando a busca linear, a complexidade seria O(n), onde 'n' é o número de produtos no estoque. A busca linear percorre a lista até encontrar o produto desejado ou atingir o final da lista.
+ Um algoritmo eficiente para manter a lista ordenada seria o algoritmo de ordenação Merge Sort. Este algoritmo tem uma complexidade de tempo O(n log n) no pior caso, o que é bastante eficiente para grandes conjuntos de dados. 
+ A busca binária é apropriada neste contexto pois explora metade da lista em cada passo, ela diminue o espaço de busca, sendo mais eficiente do que uma busca linear, principalmente em grandes conjuntos de dados. 
